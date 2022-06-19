@@ -1,0 +1,12 @@
+{
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "MAVEN_OPTS",               // variable name
+            "value": "-Xms1024m -Xmx4096m"                     // value
+        },
+        {
+            "environmentVariable": "JAVA_HOME",                // variable name
+            "value": "C:\\Program Files\\Zulu\\zulu-11"      // value
+        }
+    ]
+}
